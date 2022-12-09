@@ -1,0 +1,10 @@
+#header {
+    background: url(../img/MB\ \(1\).png) top/ cover no-repeat;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+}
